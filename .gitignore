@@ -49,3 +49,6 @@ public/rss.xml
 
 # Generated OG images (scripts/generateOgImages.mjs)
 public/images/og/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
